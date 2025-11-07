@@ -1,0 +1,15 @@
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\bin\Debug\net8.0\Maze.exe
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\bin\Debug\net8.0\Maze.deps.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\bin\Debug\net8.0\Maze.runtimeconfig.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\bin\Debug\net8.0\Maze.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\bin\Debug\net8.0\Maze.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.AssemblyInfoInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.AssemblyInfo.cs
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.csproj.CoreCompileInputs.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.sourcelink.json
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\refint\Maze.dll
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.pdb
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\Maze.genruntimeconfig.cache
+C:\Users\alex\OneDrive\Documents\College Cringe\Programming\lab-8-maze-littlerobotgames\Maze\obj\Debug\net8.0\ref\Maze.dll
