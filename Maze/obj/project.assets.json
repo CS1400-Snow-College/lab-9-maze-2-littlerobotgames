@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-8-maze-littlerobotgames\\Maze\\Maze.csproj",
+      "projectUniqueName": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-9-maze-2-littlerobotgames\\Maze\\Maze.csproj",
       "projectName": "Maze",
-      "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-8-maze-littlerobotgames\\Maze\\Maze.csproj",
+      "projectPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-9-maze-2-littlerobotgames\\Maze\\Maze.csproj",
       "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-8-maze-littlerobotgames\\Maze\\obj\\",
+      "outputPath": "C:\\Users\\alex\\OneDrive\\Documents\\College Cringe\\Programming\\lab-9-maze-2-littlerobotgames\\Maze\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
